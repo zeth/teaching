@@ -1,6 +1,8 @@
 """A Dictionary reimplemented in simple Python for educational purposes.
 Copyright Zeth 2024.
 Feel free to submit improvements or implement more methods.
+Website: https://github.com/zeth/teaching/blob/main/src/dictionary.py
+License: MIT: Do whatever you want but provide attribution.
 """
 
 from typing import Any
